@@ -1,6 +1,6 @@
 # testproject
 
-The best project ever.
+The best project ever.With first feature.
 
 ## Getting Started
 Install the module with: `npm install testproject`
